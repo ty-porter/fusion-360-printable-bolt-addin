@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"8b2e96ef-6a63-4300-92f5-17fbc3af8cc4",
+	"author":	"ty-porter",
+	"description":	{
+		"":	"Create a 3D printable bolt with variable backlash to match tolerances on 3D printers. Optionally create a matching nut."
+	},
+	"version":	"0.1.0",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
